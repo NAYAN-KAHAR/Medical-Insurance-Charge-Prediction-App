@@ -2,7 +2,7 @@
    This is a Machine Learning web application that predicts medical insurance charges based on user inputs like age, sex, BMI, number of children, smoking habits, and region.
 
 ## Setup Instructions
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/NAYAN-KAHAR/Medical-Insurance-Charge-Prediction-App/tree/master
    cd your-repo-name
 
 ## Create Virtual Environment
@@ -15,4 +15,5 @@
 ## Run the App Locally
   streamlit run app.py
 
-## Live Url : https://medical-insurance-charge-prediction-app.onrender.com/
+## Live Url :
+   https://medical-insurance-charge-prediction-app.onrender.com/
